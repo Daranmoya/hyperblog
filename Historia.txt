@@ -14,23 +14,9 @@ y lamentablemente al tener la respuesta
 o la razón 
 el milagro acaba
 
-<<<<<<< HEAD
 Master 1 
 
-<<<<<<< HEAD
 Master 2
-=======
 
 
 Experimento 1
-<<<<<<< HEAD
->>>>>>> 007d2a0 (Exp 1)
-=======
-
-Experimento 2
->>>>>>> 994ca5a (Exp 2)
-=======
-Master 1
-
-Master 2
->>>>>>> 4cf4208dcf009100db82bad2369ab57017583f33
