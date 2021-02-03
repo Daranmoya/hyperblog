@@ -22,4 +22,9 @@ Master 2
 
 
 Experimento 1
+<<<<<<< HEAD
 >>>>>>> 007d2a0 (Exp 1)
+=======
+
+Experimento 2
+>>>>>>> 994ca5a (Exp 2)
